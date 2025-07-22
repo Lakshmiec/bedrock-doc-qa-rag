@@ -1,0 +1,5 @@
+#!/Users/sree/bedrock-doc-qa-rag/newvenv/bin/python3.13
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
